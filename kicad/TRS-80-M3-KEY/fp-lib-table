@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "TRS-80")(type "KiCad")(uri "${KIPRJMOD}/TRS-80-M3-KEY_Connectors.pretty")(options "")(descr ""))
+)
